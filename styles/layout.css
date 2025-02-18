@@ -29,6 +29,10 @@ main{
     }
 }
 
+.developer{
+    margin-left: auto;
+}
+
 aside{
     background-color: var(--surface-secondary);
     padding: 4rem;

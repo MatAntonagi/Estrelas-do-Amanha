@@ -60,3 +60,10 @@ img{
 .flex-2{
     flex: 2;
 }
+
+.developer{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    font: var(--text-sm);
+}
